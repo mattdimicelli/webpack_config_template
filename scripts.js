@@ -1,0 +1,1 @@
+"dev": "npx webpack serve --mode development --devtool eval-source-map",
